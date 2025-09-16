@@ -6,4 +6,4 @@ This is a simple portfolio website created to practice Git and GitHub workflows,
 - HTML
 
 ## Live Demo
-You can view the live site here: [GitHub Pages - Live Site](https://github.com/williamtenhunen/portfolio-site)
+You can view the live site here: [GitHub Pages - Live Site](https://williamtenhunen.github.io/portfolio-site/)
